@@ -1,0 +1,23 @@
+@media screen and (max-width:1116px){
+    .container{
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+}
+
+@media screen and (max-width:600px){
+    .row{
+        display: flex;
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+        /* justify-content: center; */
+        align-items: center;
+        /* flex-shrink: unset; */
+    }
+
+    .col{
+        width: 100%;
+    }
+    
+}
