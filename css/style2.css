@@ -1,12 +1,16 @@
-@media screen and (max-width:1116px){
-    .container{
-        width: 100%;
-        margin: 0 auto;
-        padding: 0 20px;
-    }
+.container{
+    max-width: 1148px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+@media screen and (max-width:760px){
+
+
+
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:480px){
     h1 {
         margin-bottom: 3rem;
         font-size: 3rem;
